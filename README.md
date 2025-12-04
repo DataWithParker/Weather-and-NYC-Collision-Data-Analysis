@@ -23,7 +23,7 @@ This project aims to identify which conditions most strongly increase crash risk
 
 #### **Crash Data Used in Model**
 - **Years Used:** 2020–2025  
-- **Rows after cleaning:** **398,266**  
+- **Rows after cleaning:** 398,266
 - **Key Fields**
   - `crash_datetime`
   - `borough`
