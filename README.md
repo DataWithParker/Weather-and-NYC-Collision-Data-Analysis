@@ -1,4 +1,4 @@
-# **NYC Weather & Traffic Crash Analysis (2020–2025)
+# NYC Weather & Traffic Crash Analysis (2020–2025)
 
 *Course: IST 718 – Big Data Analytics - Syracuse University*
 
