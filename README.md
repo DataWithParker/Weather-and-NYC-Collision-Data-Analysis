@@ -132,21 +132,15 @@ Rain and snow shows a slight increase in the crash rate, while clear/overcast we
 
 ### **Poisson Distribution per Borough**
 - Brooklyn (λ ≈ 3.18) has the highest curve shifted toward 3–4 crashes per hour, indicating it experiences the most frequent crashes.
-![My Visualization](images/Poisson%20Distribution%20of%20Crash%20Counts%20per%20Borough.png)
-
-### **Poisson Distribution - Total Crash Count**
-![My Visualization](images/Poisson%20Distribution%20of%20Crash%20Counts.png)
 
 ### **Poisson Distribution vs. Empirical Crash Data**
 - Borough crash patterns (Queens, Brooklyn, Bronx, etc.) follow Poisson-shaped curves.
 - Empirical crash distribution matches the Poisson prediction closely.
 - Confirms Poisson regression is statistically appropriate.
-![My Visualization](images/Empirical%20Dist.%20vs%20Poisson%20Prediction.png)
 
 ### **Observed vs. Predicted Scatter Plot**
 - Model predicts typical crash rate (0–10 crashes) well.
 - Underestimates rare high-crash hours (>10), a known limitation of Poisson models.
-![My Visualization](images/Observed%20and%20Predicted%20Crash%20Count.png)
 
 ---
 
